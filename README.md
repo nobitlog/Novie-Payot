@@ -12,7 +12,7 @@ I am a 2nd year IT student at Davao del Norte State College (DNSC) in Panabo Cit
  
 ## Portfolio
  
-Live site: https://nobi.github.io
+Live site: nobi.github.io
  
 ---
  
